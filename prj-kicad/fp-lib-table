@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cowdin-dcdc)(type KiCad)(uri ${KIPRJMOD}/cowdin-dcdc.pretty)(options "")(descr ""))
+)
